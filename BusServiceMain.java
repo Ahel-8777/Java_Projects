@@ -150,7 +150,7 @@ class BusServiceMain
 		System.out.println("Press 3 to see the bus information ");
 		System.out.println("Press 4 to see the driver details ");
 		System.out.println("Press 5 to see the passenger details ");
-        System.out.println("  ");
+    		System.out.println("  ");
 		Scanner sc = new Scanner(System.in);
 		int x = sc.nextInt();
 
